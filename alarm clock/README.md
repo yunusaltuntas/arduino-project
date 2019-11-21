@@ -1,5 +1,5 @@
 # Alarm Project
-Bu projede tamamen bir çalarsaat mantığında çalışan kendi çalarsaatimizi yaptık.
+Bu projede tamamen bir çalarsaat mantığında çalışan kendi çalar saatimizi yaptık.Normal bir çalar saatte olduğu gibi alarmın çalacagı saati ayarlıyoruz ve ardından onayladıgımızda saat verisi bizim alarm verisiyle eşleştiğinde alarmımız çalıyor
 Devrenin şeması;
 <img src='https://github.com/yunusaltuntas/arduino-project/blob/master/alarm%20clock/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG' width='400'>
 
